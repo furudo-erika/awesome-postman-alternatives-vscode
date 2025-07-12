@@ -1,4 +1,4 @@
-# Awesome Postman-like VS Code Extensions
+# Awesome Postman-like VSCode Extensions
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
