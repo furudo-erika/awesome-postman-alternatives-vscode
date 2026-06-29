@@ -98,6 +98,23 @@ Thunder Client is a fantastic alternative to Postman, especially for developers 
 
 REST Client is a great choice for developers who prefer a code-based approach to API testing. It's lightweight, powerful, and highly customizable. The ability to store your API requests in plain text files makes it a fantastic tool for collaboration and version control.
 
+### 5. Postmate Client
+
+*   **Marketplace Link:** [Postmate Client](https://marketplace.visualstudio.com/items?itemName=PostMate-lab.postmate)
+*   **Description:** Postmate Client is a privacy-first, local-first API client for VS Code supporting REST, GraphQL, and WebSocket testing. It has no login, no cloud sync, and no telemetry — everything stays on your machine.
+
+**Key Features:**
+
+*   **Local-First & Private:** No account required, no data leaves your machine. Collections and environments are stored as local files, making them easy to version control with Git.
+*   **REST, GraphQL & WebSocket Support:** Test all three protocols from a single extension without switching tools.
+*   **Scripting with a Familiar API:** A built-in `pm` object (`pm.test()`, `pm.expect()`, `pm.setVariable()`, etc.) mirrors Postman's scripting conventions, making migration easy.
+*   **CLI Integration:** The companion `pmc` CLI lets you run collections from the command line or CI/CD pipelines, with report output.
+*   **Import from Postman & Bruno:** Bring over existing collections without starting from scratch.
+
+**Why it's a Great Postman Alternative:**
+
+Postmate Client is built specifically for developers who want Postman-style API testing without any cloud dependency or telemetry. The combination of local-first storage, CLI support for CI/CD, and Postman-compatible scripting makes it a strong choice for privacy-conscious developers and teams who want their API data to stay under their own control.
+
 ## Contributing
 
 This is an open-source project, and contributions are always welcome! If you know of an awesome Postman-like VS Code extension that's not on this list, please feel free to open a pull request.
